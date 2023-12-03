@@ -1,0 +1,3 @@
+Request ID,Camp ID,Author,Request Description,Status,Timestamp,Response
+1001,1001,KOH1,sorry that was stupid. will there be tea?,PROCESSED,2023-12-01 15:45:06.847,null
+1002,1001,KOH1,boo?,PENDING,2023-12-01 15:55:39.699,null
